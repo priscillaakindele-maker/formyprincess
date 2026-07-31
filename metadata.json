@@ -1,0 +1,6 @@
+{
+  "name": "Girlfriends Day",
+  "description": "A beautiful one-page celebration with 3 photo memories and a heartfelt love message.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
